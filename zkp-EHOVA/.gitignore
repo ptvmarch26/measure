@@ -1,0 +1,3 @@
+node_modules/
+data/voter_data_for_db_*.json
+data/voter_secrets_for_script_*.json
